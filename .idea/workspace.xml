@@ -32,7 +32,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../../JDK8_64/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="2480">
               <caret line="105" column="24" selection-start-line="105" selection-start-column="23" selection-end-line="105" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -44,8 +44,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/java/reflect/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            <state relative-caret-position="682">
+              <caret line="40" column="65" lean-forward="true" selection-start-line="40" selection-start-column="65" selection-end-line="40" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,7 +56,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../../JDK8_64/src.zip!/java/lang/reflect/Method.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-90">
+            <state relative-caret-position="13888">
               <caret line="482" column="18" selection-start-line="482" selection-start-column="18" selection-end-line="482" selection-end-column="18" />
             </state>
           </provider>
@@ -62,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/java/reflect/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-755">
+            <state relative-caret-position="496">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
@@ -71,7 +74,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/java/reflect/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
+            <state relative-caret-position="1271">
               <caret line="41" column="26" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="26" />
             </state>
           </provider>
@@ -113,7 +116,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,7 +154,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,11 +271,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Main.executeMethod" />
+        <item itemvalue="JUnit.Main.newInstance" />
         <item itemvalue="JUnit.Main.getMethods" />
         <item itemvalue="JUnit.Main.getConstructor" />
-        <item itemvalue="JUnit.Main.newInstance" />
         <item itemvalue="JUnit.Main.getClassObj" />
+        <item itemvalue="JUnit.Main.executeMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -336,12 +339,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15283000" />
+    <option name="totallyTimeSpent" value="15404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17537314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17697228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -412,9 +416,36 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java-反射" />
-    <option name="LAST_COMMIT_MESSAGE" value="java-反射" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
@@ -422,14 +453,14 @@
     <entry file="file://$PROJECT_DIR$/src/org/java/reflect/a.java" />
     <entry file="file://$PROJECT_DIR$/src/org/java/reflect/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
+        <state relative-caret-position="1271">
           <caret line="41" column="26" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../JDK8_64/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="2480">
           <caret line="105" column="24" selection-start-line="105" selection-start-column="23" selection-end-line="105" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -439,22 +470,25 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../JDK8_64/src.zip!/java/lang/reflect/Method.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
+        <state relative-caret-position="13888">
           <caret line="482" column="18" selection-start-line="482" selection-start-column="18" selection-end-line="482" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/java/reflect/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-755">
+        <state relative-caret-position="496">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/java/reflect/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        <state relative-caret-position="682">
+          <caret line="40" column="65" lean-forward="true" selection-start-line="40" selection-start-column="65" selection-end-line="40" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
