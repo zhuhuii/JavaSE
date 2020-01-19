@@ -1,5 +1,3 @@
-package org.java.reflect;
-
 import java.util.Arrays;
 
 /**
@@ -30,12 +28,12 @@ public class Dog extends Animal {
         System.out.println("Animal bite（咬人）...");
     }
 
+    public Dog() {
+    }
+
     public Dog(String breed, String[] hobbys) {
         this.breed = breed;
         this.hobbys = hobbys;
-    }
-
-    public Dog() {
     }
 
     @Override

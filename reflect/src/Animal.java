@@ -1,5 +1,3 @@
-package org.java.reflect;
-
 /**
  * @Author: zhuhui
  * @Description:

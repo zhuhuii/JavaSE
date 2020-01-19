@@ -1,5 +1,3 @@
-package org.java.reflect;
-
 import org.junit.Test;
 
 import java.lang.reflect.Constructor;
@@ -58,13 +56,13 @@ public class Main {
          */
         Class<Dog> dogClass = Dog.class;
         Constructor<Dog> constructor = dogClass.getConstructor();
-        Constructor<Dog> constructor1 = dogClass.getConstructor(Character.class, String[].class, String.class);
+        Constructor<Dog> constructor1 = dogClass.getConstructor(String.class, String[].class);
 
         /**
          * 用构造方法创建对象
          */
         Dog dog1 = constructor.newInstance();
-        Dog dog2 = constructor1.newInstance('汪', new String[]{"骨头", "狗粮"}, "晚上睡觉");
+        Dog dog2 = constructor1.newInstance("哈士奇", new String[]{"拆家"});
         System.out.println("dog1：" + dog1);
         System.out.println("dog2：" + dog2);
     }
