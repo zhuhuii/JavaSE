@@ -3,7 +3,6 @@ import java.util.Arrays;
 /**
  * @Author: zhuhui
  * @Description:
- * @Date: Create in 20:07 2020/1/16
  */
 public class Dog extends Animal {
     /**

@@ -8,7 +8,6 @@ import java.lang.reflect.Method;
 /**
  * @Author: zhuhui
  * @Description:
- * @Date: Create in 19:44 2020/1/16
  */
 public class Main {
 
@@ -106,5 +105,11 @@ public class Main {
         Method toString = dogClass.getMethod("toString");
         Object result = toString.invoke(dogClass.newInstance());
         System.out.println(result);
+
+        Method gnaw = dogClass.getDeclaredMethod("gnaw");
+        gnaw.setAccessible(true);
+
+        //Class Main can not access a member of class Dog with modifiers "private"
+        gnaw.invoke(dogClass.newInstance());
     }
 }

@@ -1,7 +1,6 @@
 /**
  * @Author: zhuhui
  * @Description:
- * @Date: Create in 20:06 2020/1/16
  */
 public class Animal {
     private String name;
