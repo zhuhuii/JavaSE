@@ -1,4 +1,4 @@
-package a_线性表.linked;
+package a线性表.linked;
 
 /**
  *

@@ -1,4 +1,4 @@
-package a_线性表.array;
+package a线性表.array;
 
 import java.util.Arrays;
 
